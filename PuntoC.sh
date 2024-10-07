@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 sudo useradd developer
 sudo groupadd grupoDevops
 sudo usermod -aG grupoDevops developer
@@ -21,7 +19,7 @@ sudo chmod -R 775 Examenes-UTN/profesores
 
 
 whoami > validar.txt
->>>>>>> d065d95 (punto C)
+
 
 
 
